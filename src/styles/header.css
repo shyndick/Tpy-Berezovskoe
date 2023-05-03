@@ -1,0 +1,92 @@
+header {
+    height: 1080px;
+    background-image: url('../image/amkodor.svg');
+}
+
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff00;
+}
+
+.header_logo {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.header_contact {
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.header_nav {
+    display: flex;
+    align-items: center;
+}
+
+.header_nav_link {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 20px
+}
+
+.header_nav_link:hover,
+.header_contact_phone,
+.header_contact_email {
+    color: #FE9A30;
+}
+
+
+.header_nav_link:not(:last-child)  {
+    margin-right: 90px;
+}
+
+.header_contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.header_contact a,
+.footer_info a {
+    color: black;
+    text-decoration: none;
+}
+
+.header_contact_img {
+    margin-right: 10px;
+    float: left;
+}
+
+.header_contact_phone, 
+.header_contact_email, 
+.social_network,
+.footer_contact_address {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.header_contact_phone {
+    margin-bottom: 10px;
+}
+
+.social_network .header_contact_img {
+    float: none;
+}
+
+.header_title {
+    margin: 254px 0 25px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.header_subtitle {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+}

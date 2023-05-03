@@ -1,0 +1,70 @@
+.job_title {
+    margin: 130px 0 40px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.job_subtitle_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.job_subtitle_item {
+    margin-bottom: 120px;
+    padding: 10px;
+}
+
+.job_item_image {
+    text-align: center;
+}
+
+.job_item_title {
+    margin: 45px 0;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.job_item_subtitle {
+    line-height: 38px;
+    font-size: 20px;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.press {
+    background-color: #FE9A30;
+    height: 250px;
+    display: flex;
+    align-items: center;
+}
+
+.press_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name_title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.name_subtitle {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+}
+.press_btn {
+    padding: 22px 32px;
+    font-size: 24px;
+    font-weight: 500;
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #FE9A30;
+}
