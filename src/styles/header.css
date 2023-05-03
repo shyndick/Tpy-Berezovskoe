@@ -37,6 +37,10 @@ header {
     color: #FE9A30;
 }
 
+.header_nav_link:hover {
+    text-decoration-line: underline;
+}
+
 
 .header_nav_link:not(:last-child)  {
     margin-right: 90px;

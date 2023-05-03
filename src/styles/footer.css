@@ -4,6 +4,8 @@ footer .header_nav_link:not(:last-child)  {
 
 footer .header_nav_link {
     font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .footer_nav {

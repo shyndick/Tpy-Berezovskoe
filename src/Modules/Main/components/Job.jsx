@@ -1,13 +1,13 @@
 import clarity from '../../../image/clarity.svg'
 import greenhouse from '../../../image/greenhouse.svg'
-import sprout from '../../../image/sprout.svg'
+import sprout from '../../../image/sprout.png'
 
 export const Job = () => {
     return(
         <div className="job">
             <div className="container">
                 <div className="job_title">
-                    Хотите с нами работать?
+                    ЧЕМ МЫ ЗАНИМАЕМСЯ?
                 </div>
             <div className="job_subtitle_wrapper">
                 <div className="job_subtitle_item">
