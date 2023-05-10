@@ -1,0 +1,86 @@
+.contacts_reqvesit {
+    margin-top: 20px;
+}
+
+.contacts_title {
+    color: #FE9A30;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.contacts_req_subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 130%;
+}
+
+.contacts_phone {
+    margin: 40px 0;
+}
+
+.contacts_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 38px;
+    font-size: 20px;
+    font-weight: 500
+}
+
+.contacts_item:nth-child(even) {
+    background-color: #FE9A30;
+    color: #fff;
+}
+
+.contacts_item_job_title {
+    width: 30%;
+}
+
+.contacts_item_phone {
+    text-align: right;
+    width: 30%;
+}
+
+.contacts_item_name {
+    text-align: center;
+    width: 40%;
+}
+
+.contacts_email_item {
+    list-style: none;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 130%;
+}
+
+.contacts_email .line {
+    margin-bottom: 0;
+}
+
+.contacts_email_items {
+    margin-top: 12px;
+}
+
+.export_phone {
+    margin: 40px 0
+}
+
+.contacts_map_subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contacts_maps_line {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.first_map,
+.second_map {
+    width: 50%;
+}

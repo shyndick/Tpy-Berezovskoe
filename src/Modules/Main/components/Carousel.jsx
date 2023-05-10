@@ -35,7 +35,8 @@ export const Carusel = () =>{
             fontSize: "60px",
             backgroundColor: "#fff",
             border: "none",
-            color: "#FE9A30"
+            color: "#FE9A30",
+            cursor: "pointer"
           }
         }}
         backwardBtnProps={{
@@ -48,7 +49,8 @@ export const Carusel = () =>{
             fontSize: "60px",
             backgroundColor: "#fff",
             border: "none",
-            color: "#FE9A30"
+            color: "#FE9A30",
+            cursor: "pointer"
           }
         }}
         dotsNav={{
@@ -68,7 +70,7 @@ export const Carusel = () =>{
               width: 16,
               borderRadius: "50%",
               border: 0,
-              background: "black",
+              background: "#FE9A30",
               marginTop: '5px'
             }
           }

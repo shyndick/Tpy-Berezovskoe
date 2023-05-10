@@ -7,15 +7,27 @@ import { useLocation } from "react-router-dom"
 export const Header = () => {
     const location = useLocation()
     return (
-        <header>
-            <div className="header_wrapper">
-                <Logo/>
-                <Navigate/>
-                <div className="header_contact">
-                    <PhoneEmail/>
-                </div>
-            </div>
-                {location.pathname === '/' && <Title/>}
-        </header>
+        <>
+            {location.pathname === '/' && <header className="header_bgr">
+                                            <div className="header_wrapper">
+                                                <Logo/>
+                                                <Navigate/>
+                                                <div className="header_contact">
+                                                    <PhoneEmail/>
+                                                </div>
+                                            </div>
+                                            <Title/>
+                                        </header>}
+            {location.pathname !== '/' && <header>
+                                            <div className="header_wrapper">
+                                                <Logo/>
+                                                <Navigate/>
+                                                <div className="header_contact">
+                                                    <PhoneEmail/>
+                                                </div>
+                                            </div>
+                                        </header>}
+        </>
+        
     )
 }

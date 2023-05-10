@@ -1,0 +1,30 @@
+.title_img {
+    width: 100%;
+}
+
+.company_subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    text-align: justify;
+}
+
+.company_subtitle::first-letter {
+    color: #FE9A30;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.about_company_subtitle {
+    margin: 31px 0 20px;
+}
+
+.company_subtitle_img {
+    float: right;
+    padding: 5px 0 5px 20px;
+}
+
+.company_subtitle_img2 {
+    float: left;
+    padding: 5px 20px 5px 0px;
+}
