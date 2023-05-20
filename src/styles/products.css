@@ -63,7 +63,7 @@
     margin-top: 46px;
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 
 }
 
@@ -74,4 +74,8 @@
     font-weight: 500;
     background-color: #fff;
     border: #FE9A30 2px solid;
+}
+
+.product_torf {
+    margin-top: 50px;
 }

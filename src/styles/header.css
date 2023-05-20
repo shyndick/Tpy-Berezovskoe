@@ -25,6 +25,7 @@
 }
 
 .header_nav_link {
+    padding: 10px;
     text-decoration: none;
     color: black;
     font-weight: 600;
@@ -95,11 +96,14 @@
     font-size: 36px;
     font-weight: 500;
     color: #fff;
+    width: 1141px;
+    margin: 0 auto;
 }
 
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
+    padding: 10px;
     position: relative;
     display: inline-block;
 }
@@ -107,23 +111,25 @@
 .dropdown a {
     text-decoration: none;
     color: black;
+
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
-    right: -130px;
+    right: -91px;
     width: 292px;
-    margin-top: 10px;
 
     background-color: #fff;
     padding: 20px 20px 10px;
     z-index: 1;
+    border: 1px solid #FE9A30;
+    border-radius: 10px;
+    margin-top: 10px;
 }
 
 .dropdown-content2{
-    margin-top: 10px;
     width: 318px;
     display: none;
     position: absolute;
@@ -131,6 +137,22 @@
     background-color: #fff;
     padding: 20px 20px 10px;
     z-index: 1;
+    border: 1px solid #FE9A30;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.dropdown-content3{
+    margin-top: 10px;
+    width: 220px;
+    display: none;
+    position: absolute;
+    right: -39px;
+    background-color: #fff;
+    padding: 20px 20px 10px;
+    z-index: 1;
+    border: 1px solid #FE9A30;
+    border-radius: 10px;
 }
 
 /* Links inside the dropdown */
@@ -150,13 +172,23 @@
     display: block;
 }
 
+.dropdown-content3 a {
+    margin-bottom: 14px;
+    color: black;
+    text-transform:none;
+    text-decoration: none;
+    display: block;
+}
+
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {color:#FE9A30}
 .dropdown-content2 a:hover {color: #FE9A30;}
+.dropdown-content3 a:hover {color: #FE9A30;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropdown-content2 {display: block;}
+.dropdown:hover .dropdown-content3 {display: block;}
 
 .dropdown a:hover {
     color: #FE9A30;

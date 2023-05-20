@@ -11,6 +11,7 @@ import './styles/contacts.css'
 import './styles/aboutCompany.css'
 import './styles/products.css'
 import './styles/photo.css'
+import './styles/feedback.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

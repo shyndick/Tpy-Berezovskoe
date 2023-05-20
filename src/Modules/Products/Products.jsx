@@ -14,10 +14,15 @@ export const Products = () => {
                 <div className="line"></div>
                 <div className="products_subtitle">
                     <Bt/>
+                    <div className="line"></div>
                     <Torf/>
+                    <div className="line"></div>
                     <Syshenka/>
+                    <div className="line"></div>
                     <Drova/>
+                    <div className="line"></div>
                     <Mushrooms/>
+                    <div className="line"></div>
                 </div>
             </div>
             <JobPress/>

@@ -50,7 +50,7 @@ export const Torf = () => {
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Допустимые уровни содержания цезия-137</div>
-                            <div className="product_tab_subname">27 , 37, + 5</div>
+                            <div className="product_tab_subname">1950</div>
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Допустимые уровни содержания цезия-137</div>

@@ -27,7 +27,13 @@ export const Navigate = () => {
                         <NavLink to='/job-openings'>Вакансии</NavLink>
                     </div>
                 </div>
-                <NavLink to='/contacts' className="header_nav_link">Контакты</NavLink>
+                <div class="dropdown header_nav_link" >
+                    <NavLink class="dropbtn header_nav_link" to='/about-company'>Контакты <FontAwesomeIcon icon={faAngleDown} /></NavLink>
+                    <div class="dropdown-content3">
+                        <NavLink to='/contacts'>Контакты</NavLink>
+                        <NavLink to='/feedback'>Обратная связь</NavLink>
+                    </div>
+                </div>
             </div>
     )
 }

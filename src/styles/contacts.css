@@ -36,11 +36,13 @@
 
 .contacts_item_job_title {
     width: 30%;
+    margin-left: 5px;
 }
 
 .contacts_item_phone {
     text-align: right;
     width: 30%;
+    margin-right: 5px;
 }
 
 .contacts_item_name {
@@ -82,5 +84,17 @@
 
 .first_map,
 .second_map {
+    width: 50%;
+}
+
+.export_phone .contacts_item_phone {
+    width: 20%;
+}
+
+.export_phone .contacts_item_job_title {
+    width: 35%;
+}
+
+.export_phone .contacts_item:nth-child(3) .contacts_item_job_title {
     width: 50%;
 }

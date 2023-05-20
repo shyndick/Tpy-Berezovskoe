@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom"
+
 export const JobPress = () => {
     return(
     <div className="press">
@@ -12,7 +14,7 @@ export const JobPress = () => {
                     </div>
                 </div>
                 <button className="press_btn">
-                    Оставить заявку
+                    <NavLink to='/feedback'>Оставить заявку</NavLink>
                 </button>
             </div>
         </div>

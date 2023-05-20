@@ -15,7 +15,7 @@ export const Job = () => {
                         <img src={greenhouse} alt="greenhouse" />
                     </div>
                     <div className="job_item_title">
-                        ПРОИЗВОДСТВО ТОРФА ДЛЯ КОМПОСТОВ
+                        ДОБЫЧА ТОРФА ДЛЯ ЗАГОТОВКИ КОМПОСТОВ
                         </div>
                     <div className="job_item_subtitle">
                         Используют  в сельском хозяйстве с целью улучшения плодородия почвы

@@ -25,7 +25,7 @@ export const Syshenka = () => {
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Зольность, % не более</div>
-                            <div className="product_tab_subname">10.5</div>
+                            <div className="product_tab_subname">15</div>
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Механическая прочность, % не менее</div>
@@ -41,7 +41,7 @@ export const Syshenka = () => {
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Теплота сгорания низшая, кКал/кг</div>
-                            <div className="product_tab_subname">3870</div>
+                            <div className="product_tab_subname">3500</div>
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Засоренность , %</div>
@@ -49,7 +49,7 @@ export const Syshenka = () => {
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Допустимые уровни содержания цезия-137</div>
-                            <div className="product_tab_subname">14,77 + 5,59</div>
+                            <div className="product_tab_subname">1220</div>
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Допустимые уровни содержания цезия-137</div>

@@ -9,18 +9,20 @@ export const ExportPhone = () => {
                 <ul className="contacts_items">
                     <li className="contacts_item">
                         <div className="contacts_item_job_title">Начальник сектора маркетинга</div>
-                        <div className="contacts_item_name">Степанюк Юлия Степановна</div>
-                        <div className="contacts_item_phone">+375 (162) 274014</div>
+                        <div className="contacts_item_name">Клунин Игорь Александрович</div>
+                        <div className="contacts_item_email">dubina@brest.gas.by</div>
+                        <div className="contacts_item_phone">+375 (162) 274012</div>
                     </li>
                     <li className="contacts_item">
                         <div className="contacts_item_job_title">Специалист по маркетингу</div>
                         <div className="contacts_item_name">Степанюк Юлия Степановна</div>
+                        <div className="contacts_item_email">step@brest.gas.by</div>
                         <div className="contacts_item_phone">+375 (1645) 47217</div>
                     </li>
                     <li className="contacts_item">
-                        <div >Общий номер специалистов по реализации</div>
+                        <div  className="contacts_item_job_title">Общий номер специалистов по реализации</div>
                         
-                        <div >+375 (33) 3227721</div>
+                        <div className="contacts_item_phone"> +375 (33) 3227721</div>
                     </li>
                 </ul>
     </div>

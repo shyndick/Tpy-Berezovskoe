@@ -43,7 +43,7 @@ export const Bt = () => {
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Теплота сгорания низшая, кКал/кг</div>
-                            <div className="product_tab_subname">БТ-1: 3010; БТ-2: 3010;</div>
+                            <div className="product_tab_subname">БТ-1: 3000; БТ-2: 3000;</div>
                         </li>
                         <li className="product_tab_item">
                             <div className="product_tab_name">Засоренность , %</div>

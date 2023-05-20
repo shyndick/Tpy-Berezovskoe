@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom"
+
 export const CatalogPress = () => {
     return(
         <div className="press">
@@ -12,7 +14,7 @@ export const CatalogPress = () => {
                         </div>
                     </div>
                     <button className="press_btn">
-                        Смотреть каталог
+                        <NavLink to='/products'>Смотреть каталог</NavLink>
                     </button>
                 </div>
             </div>

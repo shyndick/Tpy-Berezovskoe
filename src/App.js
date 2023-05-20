@@ -12,6 +12,7 @@ import { QualityControl } from "./Modules/QualityControl/QualityControl";
 import { ProductsExport } from "./Modules/ProductsExport/ProductsExport";
 import { Photo } from "./Modules/Photo/Photo";
 import { JobOpenings } from "./Modules/JobOpenings/JobOpenings";
+import { Feedback } from "./Modules/Feedback/Feedback";
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
           <Route path="/quality-control" element={<QualityControl/>}></Route>
           <Route path="/photo" element={<Photo/>}></Route>
           <Route path="/job-openings" element={<JobOpenings/>}></Route>
+          <Route path="/feedback" element={<Feedback/>}></Route>
         </Route>
       </Routes>
     </div>
