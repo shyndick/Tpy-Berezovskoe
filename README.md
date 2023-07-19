@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Данный проект является ребрендингом существующего сайта ТПУ "Березовское"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Чтобы оставаться в лидерах ниши, надо постоянно корректировать ассортимент, рекламу, сервис и многие другие факторы. Бывает и так, что дело доходит до кардинальных изменений. Данный проект является таковым.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Установка и запуск проекта
+
+1.Выполнить клонирование проекта с GitHub на свой компьютер:
+
+### `https://github.com/shyndick/Tpy-Berezovskoe.git`
+
+2. Переходим в папку с проектом:
+
+### `cd Tpy-Berezovskoe`
+
+3.Произвести установку необходимых библиотек:
+
+### `npm i`
+
+4. После запускаем проект:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Демонстация проекта
 
-### `npm test`
+### Главная страница.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+До 
+<a href="https://ibb.co/71CL8g7"><img src="https://i.ibb.co/RDbdZhL/screencapture-torf-brest-gas-by-history-html-2023-07-19-21-10-59.png" alt="screencapture-torf-brest-gas-by-history-html-2023-07-19-21-10-59" border="0" /></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+После 
+<a href="https://ibb.co/wWn98pD"><img src="https://i.ibb.co/DCBxmw3/screencapture-localhost-3000-2023-07-19-20-54-33.png" alt="screencapture-localhost-3000-2023-07-19-20-54-33" border="0" /></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Контакты.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+До
+<a href="https://ibb.co/12vLnV9"><img src="https://i.ibb.co/vzwHB5J/screencapture-torf-brest-gas-by-contacts-html-2023-07-19-21-10-34.png" alt="screencapture-torf-brest-gas-by-contacts-html-2023-07-19-21-10-34" border="0" /></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+После
+<a href="https://ibb.co/FV8RhcW"><img src="https://i.ibb.co/NSWcFf3/screencapture-localhost-3000-contacts-2023-07-19-21-27-07-1.png" alt="screencapture-localhost-3000-contacts-2023-07-19-21-27-07-1" border="0" /></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Продукция.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+До
+<a href="https://ibb.co/hft5h0f"><img src="https://i.ibb.co/m8Ms1p8/screencapture-torf-brest-gas-by-products1-php-2023-07-19-21-10-13.png" alt="screencapture-torf-brest-gas-by-products1-php-2023-07-19-21-10-13" border="0" /></a>
 
-## Learn More
+После
+<a href="https://ibb.co/KjTFBVg"><img src="https://i.ibb.co/zhqGCPg/screencapture-localhost-3000-products-2023-07-19-20-55-01.png" alt="screencapture-localhost-3000-products-2023-07-19-20-55-01" border="0" /></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### История Предприятия.
 
-### Code Splitting
+До
+<a href="https://ibb.co/71CL8g7"><img src="https://i.ibb.co/RDbdZhL/screencapture-torf-brest-gas-by-history-html-2023-07-19-21-10-59.png" alt="screencapture-torf-brest-gas-by-history-html-2023-07-19-21-10-59" border="0" /></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+После
+<a href="https://ibb.co/StWsF2x"><img src="https://i.ibb.co/9bz8QJv/screencapture-localhost-3000-about-company-2023-07-19-20-55-24.png" alt="screencapture-localhost-3000-about-company-2023-07-19-20-55-24" border="0" /></a>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Обратная связь.
 
-### Making a Progressive Web App
+До
+<a href="https://ibb.co/3B6KWFs"><img src="https://i.ibb.co/gzqYwW7/screencapture-torf-brest-gas-by-mail-php-2023-07-19-21-31-35.png" alt="screencapture-torf-brest-gas-by-mail-php-2023-07-19-21-31-35" border="0" /></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+После
+<a href="https://ibb.co/m6QYRcw"><img src="https://i.ibb.co/vZ2rcjG/screencapture-localhost-3000-feedback-2023-07-19-21-00-37.png" alt="screencapture-localhost-3000-feedback-2023-07-19-21-00-37" border="0" /></a>
 
-### Advanced Configuration
+### Приятного пользования!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Автор:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Проект разработал __Павлов Константин__.
 
-### `npm run build` fails to minify
+Ссылка на GitHub:  ___https://github.com/shyndick___.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
